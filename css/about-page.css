@@ -11,6 +11,12 @@
     opacity: 0.7;
 }
 
+body{
+  color: rgb(255, 0, 152);
+  font-family: arial, sans-serif;
+  margin:10px;
+}
+
 .fa-facebook {
   background: #3B5998;
   color: white;
