@@ -39,5 +39,6 @@ body {
 }
 header {
   text-align: center;
-  background-color: white;
+  background-image: url("ARTWORK_DOCUMENTS/U2/AS_ART_unit_2copy.jpg");
+  /*background-position: url("ARTWORK_DOCUMENTS/U2/AS_ART_unit_2copy.jpg");*/
 }
