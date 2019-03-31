@@ -11,6 +11,7 @@ div {
   border-radius: 12px;
 }
 
+<<<<<<< HEAD
 p {
   color: rgba(255,255,255,1);
   background: rgba(0,0,0,1);
@@ -20,4 +21,8 @@ p {
   position: absolute;
   bottom: 0;
   margin: 0;
+=======
+body {
+  carousel-item: 50%;
+>>>>>>> 600c4b2f85af5fbb5bfe99262247979e12c7631b
 }
