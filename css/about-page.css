@@ -10,15 +10,19 @@
   position: relative;
 }
 
-h5 {
+.sandbox h5 {
 
-  font-family: 'Cardo', serif;
-  font-size: 1.5em;
+  font-family: helvetica, sans-serif;
+  font-size: 1em;
   font-weight: normal;
   font-style: italic;
   letter-spacing: 0.1em;
   line-height: 2.2em;
-  color:white;
+  color: white;
+}
+
+main {
+  padding-bottom: 10px;
 }
 
 em {
@@ -57,6 +61,10 @@ header {
   background-image: url("ARTWORK_DOCUMENTS/photo.jpg");
 }
 
+p {
+  padding-left: 20px;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -77,4 +85,8 @@ li a {
 
 li a:hover {
   opacity: 50%;
+}
+
+.socialButtons:hover {
+  opacity: 0.5;
 }
