@@ -11,10 +11,10 @@
 }
 
 
-.sandbox h5 {
+h5 {
 
-  font-family: helvetica, sans-serif;
-  font-size: 1em;
+  font-family: 'Cardo', serif;
+  font-size: 1.5em;
   font-weight: normal;
   font-style: italic;
   letter-spacing: 0.1em;
@@ -69,10 +69,9 @@ p {
 }
 
 main {
-  padding-top: 2em;
+  padding-top: 5em;
   padding-left: 2em;
 }
-
 .vertical-center {
   min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
   min-height: 100vh; /* These two lines are counted as one 🙂       */
