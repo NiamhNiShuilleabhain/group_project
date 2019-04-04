@@ -2,18 +2,6 @@
   padding: 1em 0 1em 0;
   	background-color: rgba(40, 70,86, 1);
 }
-.fa:hover {
-    opacity: 0.7;
-}
-
-body{
-  color: rgb(0, 0, 0);
-  font-family: arial, sans-serif;
-  margin:10px;
-}
-
-.fa-facebook {
-  background: #3B5998;
 
 .heading-correct-pronounciation {
 
@@ -61,12 +49,16 @@ em {
 body {
   text-align: center;
   background-size: cover;
+  background-repeat: no-repeat;
   /*add more sytles?*/
 }
 header {
   text-align: center;
-  background-image: url("ARTWORK_DOCUMENTS/U2/AS_ART_unit_2copy.jpg");
-  /*background-position: url("ARTWORK_DOCUMENTS/U2/AS_ART_unit_2copy.jpg");*/
+  background-color: white;
+}
+
+.bg {
+  background-image: url("ARTWORK_DOCUMENTS/photo.jpg");
 }
 
 p {
