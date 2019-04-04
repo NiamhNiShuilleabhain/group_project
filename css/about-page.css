@@ -1,12 +1,7 @@
-.fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 50px;
-  text-align: center;
-  text-decoration: none;
-  margin: 5px 2px;
+.sandbox-correct-pronounciation {
+  padding: 1em 0 1em 0;
+  	background-color: rgba(40, 70,86, 1);
 }
-
 .fa:hover {
     opacity: 0.7;
 }
@@ -19,16 +14,47 @@ body{
 
 .fa-facebook {
   background: #3B5998;
+
+.heading-correct-pronounciation {
+
+  margin: auto;
+  text-align: center;
+  position: relative;
+}
+
+.sandbox h5 {
+
+  font-family: helvetica, sans-serif;
+  font-size: 1em;
+  font-weight: normal;
+  font-style: italic;
+  letter-spacing: 0.1em;
+  line-height: 2.2em;
   color: white;
 }
 
-.fa-twitter {
-  background: #55ACEE;
+main {
+  padding-bottom: 10px;
+}
+
+em {
+  font-family: helvetica, sans-serif;
+  font-size: 3.5em;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  display: block;
+  font-style:normal;
+  padding-top: 0.3em;
+  text-shadow: 0.07em 0.07em 0 rgba(255, 255, 255, 0.3);
   color: white;
 }
 
-.fa-instagram {
-  background: #125688;
+.navbar-brand {
+  width: 5%;
+  height: 5%;
+}
+
+.navbar h1{
   color: white;
 }
 
@@ -41,6 +67,10 @@ header {
   text-align: center;
   background-image: url("ARTWORK_DOCUMENTS/U2/AS_ART_unit_2copy.jpg");
   /*background-position: url("ARTWORK_DOCUMENTS/U2/AS_ART_unit_2copy.jpg");*/
+}
+
+p {
+  padding-left: 20px;
 }
 
 ul {
@@ -63,4 +93,8 @@ li a {
 
 li a:hover {
   opacity: 50%;
+}
+
+.socialButtons:hover {
+  opacity: 0.5;
 }
